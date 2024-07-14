@@ -1,0 +1,3 @@
+url: "https://discord.com/api/webhooks/_____CHANGE_ME_____"
+start: "[Systemd] 起動処理が実行されました"
+stop: "[Systemd] 停止処理が実行されました"

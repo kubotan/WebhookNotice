@@ -1,0 +1,9 @@
+name: WebhookNotice
+version: 1.0
+api-version: 1.15
+description: WebhookNotice
+author: kubotan
+website: https://gorogoro.space/
+main: space.gorogoro.webhooknotice.WebhookNotice
+
+commands:
